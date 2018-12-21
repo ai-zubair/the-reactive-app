@@ -77,7 +77,7 @@
     "version": "1.0.0",
     "description": "Fully functional react app mimicing the features of the native app.",
     "main": "server.js",
-    "repository": "https://github.com/ai-zubair/react-project/",
+    "repository": "https://github.com/ai-zubair/the-reactive-app/",
     "author": "Zubair Bashir <zubair.bashirzubair@gmail.com>",
     "license": "MIT"
 }
